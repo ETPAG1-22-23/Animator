@@ -90,6 +90,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: Pied D
@@ -436,7 +437,8 @@ ScriptedImporter:
     - {x: 21, y: 22}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 182, y: -27}
+    uvTransform: {x: 223, y: 4}
+    spritePosition: {x: 41, y: 31}
   - name: Jambe D
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -715,7 +717,8 @@ ScriptedImporter:
     - {x: 19, y: 20}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -17, y: 237}
+    uvTransform: {x: 54, y: 304}
+    spritePosition: {x: 71, y: 67}
   - name: Main D
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1003,7 +1006,8 @@ ScriptedImporter:
     - {x: 19, y: 20}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -50, y: 137}
+    uvTransform: {x: 54, y: 418}
+    spritePosition: {x: 104, y: 281}
   - name: Bras D
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1313,7 +1317,8 @@ ScriptedImporter:
     - {x: 21, y: 22}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -90, y: 112}
+    uvTransform: {x: 4, y: 418}
+    spritePosition: {x: 94, y: 306}
   - name: "T\xEAte"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1660,7 +1665,8 @@ ScriptedImporter:
     - {x: 26, y: 27}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -55, y: -366}
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 59, y: 370}
   - name: Cou
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2020,7 +2026,8 @@ ScriptedImporter:
     - {x: 27, y: 28}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 55, y: -102}
+    uvTransform: {x: 113, y: 169}
+    spritePosition: {x: 58, y: 271}
   - name: Buste
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2376,7 +2383,8 @@ ScriptedImporter:
     - {x: 26, y: 27}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 55, y: -119}
+    uvTransform: {x: 113, y: 4}
+    spritePosition: {x: 58, y: 123}
   - name: Main G
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2664,7 +2672,8 @@ ScriptedImporter:
     - {x: 19, y: 20}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -95, y: 163}
+    uvTransform: {x: 54, y: 462}
+    spritePosition: {x: 149, y: 299}
   - name: bras G
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2965,7 +2974,8 @@ ScriptedImporter:
     - {x: 21, y: 22}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 12, y: -31}
+    uvTransform: {x: 113, y: 287}
+    spritePosition: {x: 101, y: 318}
   - name: Pied G
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3321,7 +3331,8 @@ ScriptedImporter:
     - {x: 21, y: 22}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 135, y: 64}
+    uvTransform: {x: 223, y: 100}
+    spritePosition: {x: 88, y: 36}
   - name: Jambe G
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3600,7 +3611,8 @@ ScriptedImporter:
     - {x: 19, y: 20}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -108, y: 234}
+    uvTransform: {x: 4, y: 304}
+    spritePosition: {x: 112, y: 70}
   characterData:
     bones:
     - name: bas corps

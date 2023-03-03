@@ -90,6 +90,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: Jambe D
@@ -390,7 +391,8 @@ ScriptedImporter:
     - {x: 20, y: 21}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -67, y: 635}
+    uvTransform: {x: 4, y: 684}
+    spritePosition: {x: 71, y: 49}
   - name: Pied D
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -702,7 +704,8 @@ ScriptedImporter:
     - {x: 22, y: 23}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 73, y: -9}
+    uvTransform: {x: 114, y: 4}
+    spritePosition: {x: 41, y: 13}
   - name: Bras D
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1025,7 +1028,8 @@ ScriptedImporter:
     - {x: 23, y: 24}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -90, y: 510}
+    uvTransform: {x: 4, y: 798}
+    spritePosition: {x: 94, y: 288}
   - name: Main D
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1304,7 +1308,8 @@ ScriptedImporter:
     - {x: 19, y: 20}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -100, y: 611}
+    uvTransform: {x: 4, y: 874}
+    spritePosition: {x: 104, y: 263}
   - name: Corps
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1682,7 +1687,8 @@ ScriptedImporter:
     - {x: 28, y: 29}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -54, y: -101}
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 58, y: 105}
   - name: bras G
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1994,7 +2000,8 @@ ScriptedImporter:
     - {x: 22, y: 23}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 13, y: -107}
+    uvTransform: {x: 114, y: 193}
+    spritePosition: {x: 101, y: 300}
   - name: Main G
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2275,7 +2282,8 @@ ScriptedImporter:
     - {x: 20, y: 21}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -145, y: 637}
+    uvTransform: {x: 4, y: 918}
+    spritePosition: {x: 149, y: 281}
   - name: Jambe G
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2574,7 +2582,8 @@ ScriptedImporter:
     - {x: 20, y: 21}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -108, y: 518}
+    uvTransform: {x: 4, y: 570}
+    spritePosition: {x: 112, y: 52}
   - name: Pied G
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2895,7 +2904,8 @@ ScriptedImporter:
     - {x: 22, y: 23}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 26, y: 82}
+    uvTransform: {x: 114, y: 100}
+    spritePosition: {x: 88, y: 18}
   characterData:
     bones:
     - name: bas_corps
