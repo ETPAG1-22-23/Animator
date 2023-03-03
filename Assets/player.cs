@@ -14,7 +14,6 @@ public class player : MonoBehaviour
 
     float jumpForce = 12f;
 
-    [SerializeField] TrailRenderer tr;
     [SerializeField] float moveSpeed_horizontal = 400.0f;
     [SerializeField] bool is_jumping = false;
     [SerializeField] bool grounded = false;
